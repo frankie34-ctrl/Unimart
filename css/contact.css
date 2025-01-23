@@ -1,0 +1,41 @@
+#main{
+    display: flex;
+    background-color: purple;
+}
+#division1{
+    background-color: #215be8;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 5px;
+    color: white;
+}
+#division2{
+    background-color: white;
+    text-align: center;
+    padding: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    align-content: center;
+}
+input[type=text],input[type=email]{
+    width: 400px;
+    height: 30px;
+    background-color: lightgrey;
+}
+legend{
+    font-size: 40px;
+    text-align: center;
+    font-weight: bolder;
+
+}
+button{
+    border-radius: 30px;
+    text-align: center;
+    background-color: #0080ff;
+    color: white;
+    width: 200px;
+    height: 40px;
+}
